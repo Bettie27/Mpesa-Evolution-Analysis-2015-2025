@@ -1,0 +1,9 @@
+# R Libraries Required to run the M-Pesa Evolution Analysis Notebook
+
+# Core R libraries for data manipulation and visualization
+library(tidyverse)
+
+# Specific libraries for time-series, scaling, and plot arrangement
+library(lubridate)
+library(scales)
+library(patchwork)
