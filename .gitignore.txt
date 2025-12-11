@@ -1,0 +1,9 @@
+# R project files and data caches
+.Rproj
+.Rdata
+.Rhistory
+*.RData
+*.Rout
+
+# OS files (mostly for Mac users)
+.DS_Store
